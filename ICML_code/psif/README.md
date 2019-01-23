@@ -3,7 +3,7 @@
 
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
-  - We propose simple feature construction technique named **Unsupervised Document Vector Representation using Partitioned Word-Vectors Averaging**
+  - We propose simple feature construction technique named **Unsupervised Document Representation via Topic-driven Word Vector Averaging**
   - We demonstrate our method through experiments on multi-class classification on 20newsGroup dataset, multi-label text classification on Reuters-21578 dataset, and Semantic Textual Similarity Tasks (STS 12-16)
 
 ## Testing
