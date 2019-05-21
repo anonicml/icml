@@ -1,9 +1,9 @@
-# Unsupervised Document Representation via Topic-driven Word Vector Averaging
+# Unsupervised Document Representation using Partition Word-Vector Averaging
 
 
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
-  - We propose simple feature construction technique named **Unsupervised Document Representation via Topic-driven Word Vector Averaging**
+  - We propose simple feature construction technique named **Unsupervised Document Representation using Partition Word-Vector Averaging**
   - We demonstrate our method through experiments on multi-class classification on 20newsGroup dataset, multi-label text classification on Reuters-21578 dataset, and Semantic Textual Similarity Tasks (STS 12-16)
 
 ## Testing
@@ -72,12 +72,11 @@ $ python psif_main_ksvd.py
 # it will output each dataset similarity score and corresponding parameters.
 ```
 
-#### other_datasets
-```sh
-For running P-SIF on other 7 datasets, go to other_datasets folder. 
-Inside other_datasets folder, 7 folders has been made for each datasets and in respective each folder readme.txt has been included for running the P-SIF. 
-Also download google embedding from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing and keep it in other_datasets folder
-```
+#### Other_Datasets
+For running P-SIF on rest of the 7 datasets, go to Other_Datasets folder. 
+Inside Other_Datasets folder, each dataset has a folders with the dataset name. 
+Follow the Readme.md has been included for running the P-SIF. 
+You have to download google embedding from https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing and placed in the Other_Dataset folder.
 
 ## Requirements
 Minimum requirements:
