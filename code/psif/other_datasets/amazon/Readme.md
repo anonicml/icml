@@ -9,5 +9,3 @@ for running with google embedding:
 python process_amazon.py
 python curate_embeddings.py
 python psif.py
-
-
