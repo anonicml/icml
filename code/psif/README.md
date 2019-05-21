@@ -4,7 +4,7 @@
 ## Introduction
   - For text classification and information retrieval tasks, text data has to be represented as a fixed dimension vector. 
   - We propose simple feature construction technique named **Unsupervised Document Representation using Partition Word-Vector Averaging**
-  - We demonstrate our method through experiments on multi-class classification on 20newsGroup dataset, multi-label text classification on Reuters-21578 dataset, and Semantic Textual Similarity Tasks (STS 12-16)
+  - We demonstrate our method through experiments on multi-class classification on 20newsGroup dataset, multi-label text classification on Reuters-21578 dataset, Semantic Textual Similarity Tasks (STS 12-16) and other classification tasks.
 
 ## Testing
 There are 3 folders named 20newsGroup, Reuters and STS which contains code related to multi-class classification on 20newsGroup dataset, multi-label classification on Reuters dataset, and Semantic Texual Similarity Task (STS) on 27 datasets.
